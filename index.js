@@ -5,5 +5,5 @@ console.log("Hola!, ¿Como estan?")
 }
 
 function sayBye () {
-    console.log("Chau!")
+    console.log("bye!")
 }
